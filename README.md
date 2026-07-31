@@ -1,6 +1,6 @@
 # 📉 User-Friction-Analyzer
 
-**Author:**Sana P
+**Author:** Sana P
 **MUID:** sana-1@mulearn
 
 ## 📖 Project Overview
